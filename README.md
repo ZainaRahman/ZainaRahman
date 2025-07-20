@@ -21,7 +21,7 @@
 
 ## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'ZainaRahman' with your actual GitHub username in the URL below -->
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/ZainaRahman/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
@@ -29,28 +29,27 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- ⚠️ Important: Replace 'ZainaRahman' with your actual GitHub username in the URL below -->
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZainaRahman&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'ZainaRahman' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZainaRahman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'ZainaRahman' with your actual GitHub username in the URL below -->
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainaRahman&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'ZainaRahman' with your actual GitHub username in the URL below -->
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZainaRahman&theme=radical&hide_border=false" />
 </div>
