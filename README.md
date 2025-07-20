@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaina</h1>
-<h3 align="center">A passionate individual to thrive smooth way in Web development and Data Analysis</h3>
+<h3 align="center">A passionate individual thriving to learn insights about Web development and Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainarahman&label=Profile%20views&color=0e75b6&style=flat" alt="zainarahman" /> </p>
 
