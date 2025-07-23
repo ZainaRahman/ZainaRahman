@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaina</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=1000&lines=An+individual+striving+to+learn+insights+about+Web+Development+and+Data+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F78C6C&center=true&vCenter=true&width=1000&lines=An+Enthusiast+of+Web+Development+and+Data+Analysis" alt="Typing SVG" />
 </p>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainarahman&label=Profile%20views&color=0e75b6&style=flat" alt="zainarahman" /> </p>
 
